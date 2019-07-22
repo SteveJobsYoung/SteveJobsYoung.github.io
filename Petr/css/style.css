@@ -621,8 +621,8 @@ body:after {
     z-index: 1;
    }
    @media (max-width: 991.98px) {
-    .site-blocks-cover {
-      font-size: 1.1rem !important;
+    .site-blocks-cover .lead, .site-blocks-cover p {
+      font-size: 0.9rem !important;
     }
    }
     @media (max-width: 991.98px) {
