@@ -621,10 +621,11 @@ body:after {
     z-index: 1;
    }
    @media (max-width: 991.98px) {
-    .site-blocks-cover .lead, .site-blocks-cover p {
-      font-size: 0.9rem !important;
-    }
+    .site-blocks-cover .lead, .site-blocks-cover p {font-size: 0.9rem !important;}
+    .site-blocks-cover h1 {font-size: 2rem;}
    }
+
+   
     @media (max-width: 991.98px) {
       .site-blocks-cover .img-face {
         display: none;
