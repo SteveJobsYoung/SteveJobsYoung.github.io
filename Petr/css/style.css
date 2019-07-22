@@ -1112,3 +1112,15 @@ figure figcaption {
   background-color: #37474F;
   color: #fff;
 }
+
+@media (max-width: 991.98px) {
+  .social-info {
+    display: flex;
+  }
+  .social-info a > i {
+    padding: 0;
+    margin: 0;
+    font-size: 1rem;
+    
+  }
+}
