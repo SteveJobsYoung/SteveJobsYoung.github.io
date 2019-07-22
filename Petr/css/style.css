@@ -1116,7 +1116,6 @@ figure figcaption {
 @media (max-width: 991.98px) {
   .social-info {
     display: flex;
-    
   }
   .social-info a > i {
     padding: 0;
